@@ -28,7 +28,7 @@ export const courses: Course[] = [
     outcomes: ["Monitor real-time network traffic and identify intrusion attempts", "Investigate enterprise security alerts and create incident analysis reports", "Complete a capstone breach investigation with technical mock-interview preparation"],
     format: ["Live instructor-led sessions", "Cloud cyber range labs", "Career grooming and technical mock interviews"],
     image: media.courses.soc,
-    brochureHref: "/brochures/soc-analyst-reference.pdf",
+    brochureHref: "/brochures/Pasconix%20-%20SOC%20L1Brochure.pdf.pdf.pdf",
   },
   {
     slug: "vulnerability-assessment-penetration-testing-vapt",
@@ -42,7 +42,8 @@ export const courses: Course[] = [
     outcomes: ["Run professional assessments in isolated penetration-testing environments", "Perform automated scanning, manual web interception, and OS or service exploitation", "Prepare for Junior Penetration Tester, Vulnerability Analyst, and Application Security roles"],
     format: ["Live instructor-led sessions", "Oracle VirtualBox or VMware Player labs", "DVWA, OWASP Juice Shop, and Metasploitable practice targets"],
     image: media.courses.vapt,
-    brochureHref: "/brochures/soc-analyst-reference.pdf",
+    brochureHref:
+      "/brochures/Pasconix%20Academy-Updated%2060Hrs%20VAPT%20Course%20Brochure.pdf_.pdf.pdf",
   },
 ];
 
